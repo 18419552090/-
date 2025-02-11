@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>科技工具箱 | 你的频道名</title>
+    <title>科技工具箱 | 大僧版</title>
     <style>
         :root {
             --primary-color: #00ff9d;
